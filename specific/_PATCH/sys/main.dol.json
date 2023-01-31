@@ -1,0 +1,10 @@
+{
+  "source": "game",
+  "operation": {
+    "str-edit": {
+      "sections": [
+          "sys/Upside Down.gct"
+      ]
+    }
+  }
+}
